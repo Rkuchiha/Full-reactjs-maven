@@ -1,0 +1,5 @@
+
+rsquid:UselessImportCheck"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿH;RMINORZ
+CODE_SMELL
+Œsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÔÚÍúÿÿÿÿH<RMINORZ
+CODE_SMELL

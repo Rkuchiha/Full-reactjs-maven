@@ -1,0 +1,5 @@
+package com.WithRkuchiha.Fullstackbackpart.repository;
+
+public class UserRepository {
+
+}

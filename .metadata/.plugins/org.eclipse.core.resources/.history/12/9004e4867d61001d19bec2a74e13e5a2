@@ -1,0 +1,5 @@
+package com.WithRkuchiha.Fullstackbackpart.model;
+
+public class User {
+
+}

@@ -1,0 +1,9 @@
+package com.WithRkuchiha.Fullstackbackpart.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.WithRkuchiha.Fullstackbackpart.model.User;
+
+public interface UserRepository extends JpaRepository<User,Long> {
+
+}

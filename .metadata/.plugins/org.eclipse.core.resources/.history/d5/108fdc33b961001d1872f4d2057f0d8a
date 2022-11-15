@@ -1,0 +1,5 @@
+package com.WithRkuchiha.Fullstackbackpart.exception;
+
+public class UserNotFoundException {
+
+}

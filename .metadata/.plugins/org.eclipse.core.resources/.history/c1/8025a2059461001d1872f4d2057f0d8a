@@ -1,0 +1,13 @@
+package com.WithRkuchiha.Fullstackbackpart;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FullStackBackpartApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
